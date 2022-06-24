@@ -19,7 +19,7 @@ header {
 }
 
 .app {
-  background: url(./images/ocean.jpg);
+  background: url(./images/mori.jpeg);
   background-size: cover;
   height: 100vh;
 }
@@ -34,12 +34,12 @@ header {
 
 .taskCardTitleInputArea {
   margin-bottom: 10px;
-  width: 30%;
+  width: 70%;
   cursor: pointer;
 }
 
 .taskCardTitleInput {
-  width: 80px;
+  width: 100%;
   font-size: 1.1rem;
   padding: 4px 6px;
   border-radius: 3px;
@@ -64,7 +64,7 @@ header {
   margin-top: 10px;
   background-color: white;
   border-radius: 5px;
-  box-shadow: 1px 1px 1px 1px rgb(75, 75, 75)
+  box-shadow: 1px 1px 1px 1px rgb(75, 75, 75);
 }
 
 .taskText {
